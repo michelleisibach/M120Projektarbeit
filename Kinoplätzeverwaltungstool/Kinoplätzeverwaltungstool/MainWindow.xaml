@@ -32,7 +32,7 @@
 
 			</Grid>
 			<WrapPanel Grid.Column="1">
-				<Button x:Name="film1" Height="200" Width="150" Content="Film 1" Background="LightCyan" Click="film1_Click"/>
+				<Button x:Name="film1" Height="200" Width="150" Content="Titanic" Background="LightCyan" Click="film1_Click"/>
 				<Button x:Name="film2" Height="200" Width="150" Content="Film 2" Background="LightCyan"/>
 				<Button x:Name="film3" Height="200" Width="150" Content="Film 3" Background="LightCyan"/>
 				<Button x:Name="film4" Height="200" Width="150" Content="Film 4" Background="LightCyan"/>

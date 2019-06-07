@@ -57,6 +57,7 @@
     <Compile Include="seatscreens.xaml.cs">
       <DependentUpon>seatscreens.xaml</DependentUpon>
     </Compile>
+    <Compile Include="showDescription.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
