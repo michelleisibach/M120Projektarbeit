@@ -14,9 +14,9 @@
 			</Grid.ColumnDefinitions>
 			<Grid Grid.Column="0" Background="LightGray">
 				<Grid.RowDefinitions>
-					<RowDefinition Height="0.05*"/>
-					<RowDefinition Height="0.1*"/>
-					<RowDefinition Height="0.8*"/>
+					<RowDefinition Height="25"/>
+					<RowDefinition Height="50"/>
+					<RowDefinition Height="AUTO"/>
 					
 				</Grid.RowDefinitions>
 				<Label Grid.Row="0" Content="FilmName"/>
@@ -26,8 +26,8 @@
 						<ColumnDefinition Width="0.5*"/>
 						<ColumnDefinition Width="0.5*"/>
 					</Grid.ColumnDefinitions>
-					<Button Grid.Column="0" Content="Reservieren" Margin="5,5,5,5"/>
-					<Button Grid.Column="1" Content="Mehr Infos" Margin="5,5,5,5"/>
+					<Button Grid.Column="0" Content="Reservieren" Margin="5,5,5,5" Height="30"/>
+					<Button Grid.Column="1" Content="Mehr Infos" Margin="5,5,5,5" Height="30"/>
 				</Grid>
 
 			</Grid>
