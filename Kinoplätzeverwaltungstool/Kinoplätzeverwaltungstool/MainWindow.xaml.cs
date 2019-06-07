@@ -20,9 +20,23 @@ namespace Kinoplätzeverwaltungstool
     /// </summary>
     public partial class MainWindow : Window
     {
+        private string ButtonName;
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            seatscreens sc = new seatscreens();
+            sc.ShowDialog();
+        }
+
+        private void film1_Click(object sender, RoutedEventArgs e)
+        {
+            ButtonName = "film1";
+            showDescription sD = new showDescription();
+            sD.changeDescription(ButtonName);
         }
     }
 }

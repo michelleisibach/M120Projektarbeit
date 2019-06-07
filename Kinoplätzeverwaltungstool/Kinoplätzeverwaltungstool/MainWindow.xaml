@@ -26,21 +26,21 @@
 						<ColumnDefinition Width="0.5*"/>
 						<ColumnDefinition Width="0.5*"/>
 					</Grid.ColumnDefinitions>
-					<Button Grid.Column="0" Content="Reservieren" Margin="5,5,5,5" Height="30"/>
+					<Button Grid.Column="0" Content="Reservieren" Margin="5,5,5,5" Height="30" Click="Button_Click"/>
 					<Button Grid.Column="1" Content="Mehr Infos" Margin="5,5,5,5" Height="30"/>
 				</Grid>
 
 			</Grid>
 			<WrapPanel Grid.Column="1">
-				<Button Height="200" Width="150" Content="Film 1" Background="LightCyan"/>
-				<Button Height="200" Width="150" Content="Film 2" Background="LightCyan"/>
-				<Button Height="200" Width="150" Content="Film 3" Background="LightCyan"/>
-				<Button Height="200" Width="150" Content="Film 4" Background="LightCyan"/>
-				<Button Height="200" Width="150" Content="Film 5" Background="LightCyan"/>
-				<Button Height="200" Width="150" Content="Film 6" Background="LightCyan"/>
-				<Button Height="200" Width="150" Content="Film 7" Background="LightCyan"/>
-				<Button Height="200" Width="150" Content="Film 8" Background="LightCyan"/>
-				<Button Height="200" Width="150" Content="Film 9" Background="LightCyan"/>
+				<Button x:Name="film1" Height="200" Width="150" Content="Film 1" Background="LightCyan" Click="film1_Click"/>
+				<Button x:Name="film2" Height="200" Width="150" Content="Film 2" Background="LightCyan"/>
+				<Button x:Name="film3" Height="200" Width="150" Content="Film 3" Background="LightCyan"/>
+				<Button x:Name="film4" Height="200" Width="150" Content="Film 4" Background="LightCyan"/>
+				<Button x:Name="film5" Height="200" Width="150" Content="Film 5" Background="LightCyan"/>
+				<Button x:Name="film6" Height="200" Width="150" Content="Film 6" Background="LightCyan"/>
+				<Button x:Name="film7" Height="200" Width="150" Content="Film 7" Background="LightCyan"/>
+				<Button x:Name="film8" Height="200" Width="150" Content="Film 8" Background="LightCyan"/>
+				<Button x:Name="film9" Height="200" Width="150" Content="Film 9" Background="LightCyan"/>
 			</WrapPanel>
 		</Grid>
 	</ScrollViewer>

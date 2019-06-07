@@ -5,11 +5,11 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Kinoplätzeverwaltungstool"
         mc:Ignorable="d"
-        Title="seatscreens" Height="450" Width="800">
+        Title="seatscreens" Height="450" Width="800" MaxWidth="800" MinWidth="800">
     <Grid>
 		<Grid.ColumnDefinitions>
 			<ColumnDefinition Width="500"/>
-			<ColumnDefinition Width="AUTO"/>
+			<ColumnDefinition Width="300"/>
 		</Grid.ColumnDefinitions>
 		<Grid Grid.Column="0">
 			<Grid.ColumnDefinitions>
@@ -238,6 +238,22 @@
 			<Button Grid.Row="11" Grid.Column="21" Margin="1,1,1,1" Background="Green"/>
 			<Button Grid.Row="11" Grid.Column="22" Margin="1,1,1,1" Background="Green"/>
 		</Grid>
-		
-    </Grid>
+		<Grid Grid.Column="1">
+			<Grid.RowDefinitions>
+				<RowDefinition Height="0.1*"/>
+				<RowDefinition Height="0.1*"/>
+				<RowDefinition Height="0.5*"/>
+			</Grid.RowDefinitions>
+			<Label Grid.Row="0" Content="Filmname"/>
+			<Grid Grid.Row="1">
+				<Grid.ColumnDefinitions>
+					<ColumnDefinition Width="0.5*"/>
+					<ColumnDefinition Width="0.5*"/>
+				</Grid.ColumnDefinitions>
+				<Button Content="Reservieren" Grid.Column="0" Margin="5,5,5,5"/>
+				<Button Content="Buchen" Grid.Column="1" Margin="5,5,5,5"/>
+			</Grid>
+			<Label Grid.Row="2" Content="Filmbeschrieb"/>
+		</Grid>
+	</Grid>
 </Window>
