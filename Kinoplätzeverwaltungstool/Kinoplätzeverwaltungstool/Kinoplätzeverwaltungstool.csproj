@@ -54,6 +54,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="reserveseat.cs" />
     <Compile Include="seatscreens.xaml.cs">
       <DependentUpon>seatscreens.xaml</DependentUpon>
     </Compile>
