@@ -5,9 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Kinoplätzeverwaltungstool"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="807.692">
-	<Grid>
-		<Grid.ColumnDefinitions>
+        Title="MainWindow" Height="450" Width="807.692" MinHeight="250">
+	<ScrollViewer>
+		<Grid>
+			<Grid.ColumnDefinitions>
 				<ColumnDefinition Width="250"/>
 				<ColumnDefinition Width="0.7*"/>
 			</Grid.ColumnDefinitions>
@@ -27,6 +28,7 @@
 					<Button Grid.Column="0" Content="Reservieren" Margin="5,5,5,5"/>
 					<Button Grid.Column="1" Content="Mehr Infos" Margin="5,5,5,5"/>
 				</Grid>
+
 			</Grid>
 			<WrapPanel Grid.Column="1">
 				<Button Height="200" Width="150" Content="Film 1" Background="LightCyan"/>
@@ -39,5 +41,6 @@
 				<Button Height="200" Width="150" Content="Film 8" Background="LightCyan"/>
 				<Button Height="200" Width="150" Content="Film 9" Background="LightCyan"/>
 			</WrapPanel>
-	</Grid>
+		</Grid>
+	</ScrollViewer>
 </Window>
