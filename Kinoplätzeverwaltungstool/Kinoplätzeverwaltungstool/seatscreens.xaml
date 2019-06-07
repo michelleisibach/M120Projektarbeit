@@ -171,6 +171,73 @@
 			<Button Grid.Row="9" Grid.Column="1" Margin="1,1,1,1" Background="Blue"/>
 			<Button Grid.Row="9" Grid.Column="2" Margin="1,1,1,1" Background="Blue"/>
 			<Button Grid.Row="9" Grid.Column="3" Margin="1,1,1,1" Background="Blue"/>
+			<Button Grid.Row="9" Grid.Column="4" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="9" Grid.Column="5" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="9" Grid.Column="6" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="9" Grid.Column="7" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="9" Grid.Column="8" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="9" Grid.Column="9" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="9" Grid.Column="10" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="9" Grid.Column="11" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="9" Grid.Column="12" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="9" Grid.Column="13" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="9" Grid.Column="14" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="9" Grid.Column="14" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="9" Grid.Column="15" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="9" Grid.Column="16" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="9" Grid.Column="17" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="9" Grid.Column="18" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="9" Grid.Column="19" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="9" Grid.Column="20" Margin="1,1,1,1" Background="Blue"/>
+			<Button Grid.Row="9" Grid.Column="21" Margin="1,1,1,1" Background="Blue"/>
+			<Button Grid.Row="9" Grid.Column="22" Margin="1,1,1,1" Background="Blue"/>	
+			
+			<Button Grid.Row="10" Grid.Column="1" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="10" Grid.Column="2" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="10" Grid.Column="3" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="10" Grid.Column="4" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="10" Grid.Column="5" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="10" Grid.Column="6" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="10" Grid.Column="7" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="10" Grid.Column="8" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="10" Grid.Column="9" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="10" Grid.Column="10" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="10" Grid.Column="11" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="10" Grid.Column="12" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="10" Grid.Column="13" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="10" Grid.Column="14" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="10" Grid.Column="15" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="10" Grid.Column="16" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="10" Grid.Column="17" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="10" Grid.Column="18" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="10" Grid.Column="19" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="10" Grid.Column="20" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="10" Grid.Column="21" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="10" Grid.Column="22" Margin="1,1,1,1" Background="Green"/>
+
+			<Button Grid.Row="11" Grid.Column="1" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="11" Grid.Column="2" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="11" Grid.Column="3" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="11" Grid.Column="4" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="11" Grid.Column="5" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="11" Grid.Column="6" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="11" Grid.Column="7" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="11" Grid.Column="8" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="11" Grid.Column="9" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="11" Grid.Column="10" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="11" Grid.Column="11" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="11" Grid.Column="12" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="11" Grid.Column="13" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="11" Grid.Column="14" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="11" Grid.Column="15" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="11" Grid.Column="16" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="11" Grid.Column="17" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="11" Grid.Column="18" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="11" Grid.Column="19" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="11" Grid.Column="20" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="11" Grid.Column="21" Margin="1,1,1,1" Background="Green"/>
+			<Button Grid.Row="11" Grid.Column="22" Margin="1,1,1,1" Background="Green"/>
 		</Grid>
+		
     </Grid>
 </Window>
