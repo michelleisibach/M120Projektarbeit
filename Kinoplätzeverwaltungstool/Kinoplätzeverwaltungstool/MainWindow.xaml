@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Kinoplätzeverwaltungstool"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="807.692" MinHeight="250" MinWidth="600">
+        Title="Kinoplätzeverwaltungstool V.3000" Height="450" Width="807.692" MinHeight="250" MinWidth="600">
 	<ScrollViewer>
 		<Grid>
 			<Grid.ColumnDefinitions>
