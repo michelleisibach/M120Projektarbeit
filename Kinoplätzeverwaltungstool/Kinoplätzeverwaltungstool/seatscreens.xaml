@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Kinoplätzeverwaltungstool"
         mc:Ignorable="d"
-        Title="seatscreens" Height="450" Width="800" MaxWidth="800" MinWidth="800">
+        Title="seatscreens" Height="450" Width="800" MinWidth="800">
     <Grid>
 		<Grid.ColumnDefinitions>
 			<ColumnDefinition Width="500"/>
@@ -251,7 +251,6 @@
 					<ColumnDefinition Width="0.5*"/>
 				</Grid.ColumnDefinitions>
 				<Button Content="Reservieren" Grid.Column="0" Margin="5,5,5,5"/>
-				<Button Content="Buchen" Grid.Column="1" Margin="5,5,5,5"/>
 			</Grid>
 			<Label Grid.Row="2" Content="Filmbeschrieb"/>
 		</Grid>

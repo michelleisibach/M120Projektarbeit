@@ -29,7 +29,7 @@ namespace Kinoplätzeverwaltungstool
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             seatscreens sc = new seatscreens();
-            sc.ShowDialog();
+            sc.Show();
         }
 
         private void film1_Click(object sender, RoutedEventArgs e)
